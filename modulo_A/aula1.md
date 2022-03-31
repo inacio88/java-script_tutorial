@@ -70,6 +70,7 @@ tipos:
     - Array
 * function
 
+
 Comentarios em js:
 //
 /*    */
@@ -77,5 +78,8 @@ Comentarios em js:
 
 ## node js
 
+typeof n
 
+
+# Aula 6
 
