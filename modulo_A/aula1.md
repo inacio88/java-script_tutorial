@@ -186,3 +186,22 @@ Várias maneiras para navegar entre esse elementos:
     div#nomeDadiv
     class.nomeClass
 
+# Aula 10
+
+### Eventos DOM
+Podem ser configurados tanto no html ou no js
+Evento é tudo que pode acontecer com um elemento:
+* evento de mouse
+    * mouseenter
+    * mousemove
+    * mousedown
+    * mouseup
+    * click
+    * mouseout
+
+
+#### Funções em js
+
+function ação(param) {
+
+}
