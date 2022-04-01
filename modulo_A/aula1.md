@@ -27,11 +27,17 @@ Ionic
 
 # Aula 3 - Módulo B
 bibliografia
+
 JavaScript o guia definitivo
+
 JavaScript Guia do programador
+
 Guia de referência da mozila
+
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+
 Guia de referência da ecma
+
 https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
 
 
@@ -82,4 +88,53 @@ typeof n
 
 
 # Aula 6
+
+# Aula 7 e 8
+
+- Operadores
+
+    * Aritméticos
+        potência: 5**2
+        
+        Demais operção são padrão
+
+    * Atribuição
+    * Relacionais
+        5 == 5  true
+        
+        5 == '5' true
+        
+        Esse operador não testa o tipo
+
+        Operador de identidade restrita
+
+        5 === '5' false
+
+        Desigual restrito !==
+
+
+    * Lógicos
+
+        ! negação
+
+        && conjunção
+
+        || disjunção
+
+        Ordem de precedência: 
+        1. ! 
+        2. && 
+        3. ||
+
+    * Ternário
+
+        teste ? true : false
+
+        media >= 7 ? "Aprovado" : "Reprovado"
+
+        var x = 8
+        
+        var res = x % 2 == 0 ? 5 : 9 
+        
+        Se o resto de x % 2 == 0, res = 5, senão res = 9
 
