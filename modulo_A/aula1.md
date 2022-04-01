@@ -138,3 +138,51 @@ typeof n
         
         Se o resto de x % 2 == 0, res = 5, senão res = 9
 
+# Aula 9 DOM
+
+ex05.html
+
+Extensão: 
+* live server no vs code
+* Node exec
+
+DOM
+
+Document object model
+
+Um conjunto de objetos dentro do navegar que dá acesso aos componentes internos do site.
+DOM está presente quando está rodando js no navegador
+
+
+Árvore DOM exemplo
+* window
+    - location
+    - document
+        * html
+            - head
+                * meta
+                * title
+            - body
+                * h1
+                * p
+                * div
+    - history
+
+
+Várias maneiras para navegar entre esse elementos:
+* Por marca
+    - getElementsByTagName();
+* Por ID
+    - getElementById();
+* Por nome
+    - getElementsByName();
+* Por classe
+    - getElementsByClassName();
+* Por seletor
+    forma nova
+    - querySelector();
+    - querySelectorAll();
+
+    div#nomeDadiv
+    class.nomeClass
+
