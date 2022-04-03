@@ -238,3 +238,31 @@ Arquivos da pasta da aula 12
     - numlength; //Tamanho do array, não é um método, é uma propriedade
     - num.indexOf(7);
         - retorna o index do 7, se não existir, retorna -1
+
+# Aula 16
+
+### Funções
+Ações executadas assim que são chamadas ou em decorrência de um algum evento
+
+Podem receber parâmtros e retornar algo
+
+É possível jogar uma função dentro de uma variável
+
+* let v = function(x){return x*2}
+    * v(3) == 6
+
+# Aula 17
+### Pesquisar mais sobre:
+* functions
+* objetos
+* modularização
+* regex
+* json
+* ajax
+* nodejs
+
+
+### Objetos
+declarando um objeto
+
+let amigo = {nome:'josé', sexo:'M', peso:53.3,engordar(p){}}
