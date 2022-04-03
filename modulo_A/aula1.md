@@ -217,3 +217,24 @@ Arquivos na pasta aula11
 ### Condições parte 2
 
 Arquivos da pasta da aula 12
+
+# Aula 13
+
+#### Laços
+
+* Teste no início: While
+* Teste no final: do while
+
+# Aula 14
+
+* for
+
+# Aula 15
+
+### Array
+
+* var num = [4, 5, 6, 7, 8]
+    - num.push(3); //add no final
+    - numlength; //Tamanho do array, não é um método, é uma propriedade
+    - num.indexOf(7);
+        - retorna o index do 7, se não existir, retorna -1
