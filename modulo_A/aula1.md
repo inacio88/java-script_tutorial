@@ -184,6 +184,8 @@ Várias maneiras para navegar entre esse elementos:
     - querySelectorAll();
 
     div#nomeDadiv
+    id é com #
+
     class.nomeClass
 
 # Aula 10
@@ -205,3 +207,12 @@ Evento é tudo que pode acontecer com um elemento:
 function ação(param) {
 
 }
+
+# Aula 11
+
+### Condições
+Arquivos na pasta aula11
+
+# Aula 12
+### Condições parte 2
+
